@@ -1,1 +1,1 @@
-My first readme
+Git essentials project
